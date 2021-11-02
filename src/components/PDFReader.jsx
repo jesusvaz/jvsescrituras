@@ -28,7 +28,7 @@ const PDFReader = () => {
           numPages={numPages}
           pageNumber={pageNumber}
           setPageNumber={setPageNumber}
-          file="/public/assets/docs/file-sample.pdf
+          file= "/assets/docs/file-sample.pdf"
         />
         <Document
           file="/assets/docs/file-sample.pdf"
